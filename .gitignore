@@ -6,7 +6,6 @@
 build/
 dist/
 *.egg-info/
-README.md
 setup.cfg
 
 # Setup notes
